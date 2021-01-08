@@ -1,0 +1,124 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MOOLA.COM" resolutions="1x" timestamp="1610135053496">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="376275066" ref="demo"/>
+    <file name="master_a-master.css" crc="4190627042" ref="index"/>
+    <file name="index.css" crc="4126207778" ref="index"/>
+    <file name="demo.css" crc="188362724" ref="demo"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont1.woff" crc="462672289"/>
+    <file name="fontawesome-webfont1.eot" crc="415170694"/>
+    <file name="fontawesome-webfont1.svg" crc="3771442179"/>
+  </folder>
+  <folder name="assets">
+    <file name="hướng-dẫn-sử-dụng-moola.mp4" crc="33157017" seo="true" mt="1610132252000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:demo"/>
+    <file name="museutils.js" crc="3803043152" ref="index:demo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:demo"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:demo"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:demo"/>
+    <file name="require.js" crc="4157109226" ref="index:demo"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled-2-01.png" crc="4240257098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u335-4.png" crc="227316063" ref="index"/>
+    <file name="u397-4.png" crc="257945669" ref="index"/>
+    <file name="2-01.png" crc="3768799000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kisspng-digital-marketing-marketing-strategy-social-media-megaphone-5ab8e60f75a3a41293910615220669594819.png" crc="4100364033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="screenshot 2021-01-08 145320-crop-u1016.png" crc="464992001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle-cog-customize-gear-preferences-settings-icon-292031.png" crc="367148192" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="industry_banner_icon_cpgpng-full.png" crc="131843413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="—pngtree—fast delivery icon for your_4891796.png" crc="4285114748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="98ac0f55-432f-469f-a8a1-5eba511836fd.svg" crc="3988435573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="98ac0f55-432f-469f-a8a1-5eba511836fd_poster_.png" crc="3812229152" ref="index"/>
+    <file name="ui.png" crc="438885630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calculator.png" crc="151102290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2021-01-08 155605-crop-u1246.png" crc="3767551172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2021-01-08 160052.png" crc="4085085598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinclipartcom_network-clipart_1330450.png" crc="4117019485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2021-01-08 160707.png" crc="460636449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted image 150x150.jpg" crc="4223327491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 150x1502.jpg" crc="3962599199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-01.png" crc="4280935037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1872-4.png" crc="3840595670" ref="index"/>
+    <file name="u1878-4.png" crc="4002884923" ref="index"/>
+    <file name="u1879-4.png" crc="4186098285" ref="index"/>
+    <file name="u1876-4.png" crc="28429842" ref="index"/>
+    <file name="u1877-4.png" crc="4259828682" ref="index"/>
+    <file name="background-service-crop-u1412.png" crc="296538181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background-service-crop-u1381.png" crc="3832629898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1927-4-a.png" crc="3840595670" ref="index"/>
+    <file name="u1920-4.png" crc="4002884923" ref="index"/>
+    <file name="u1922-4.png" crc="4186098285" ref="index"/>
+    <file name="u1919-4.png" crc="28429842" ref="index"/>
+    <file name="u1921-4.png" crc="4259828682" ref="index"/>
+    <file name="background-service.png" crc="437812574" seo="true" ref="demo">
+      <caption webpage="demo" alt=""/>
+      <caption webpage="demo" alt=""/>
+    </file>
+    <file name="u1986-4.png" crc="3764619457" ref="demo"/>
+    <file name="u1979-4.png" crc="3848542996" ref="demo"/>
+    <file name="u1981-4.png" crc="4186098285" ref="demo"/>
+    <file name="u1978-4.png" crc="3881762591" ref="demo"/>
+    <file name="u1980-4.png" crc="487018019" ref="demo"/>
+    <file name="screen-transistion-animation6.gif" crc="330013867" seo="true" ref="demo">
+      <caption webpage="demo" alt=""/>
+    </file>
+    <file name="file-upload-gif.gif" crc="191011805" seo="true" ref="demo">
+      <caption webpage="demo" alt=""/>
+    </file>
+    <file name="85d1197a7a3cf94c290d6f5389ae0044.gif" crc="211239077" seo="true" ref="demo">
+      <caption webpage="demo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="458950727" seo="true" mt="1610135040394" redirect="true"/>
+  <file name="demo.html" crc="3834018026" seo="true" mt="1610134636931" redirect="true"/>
+</manifest>
